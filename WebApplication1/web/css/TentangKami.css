@@ -1,0 +1,42 @@
+/* TentangKami.css */
+.about-content {
+    padding: 20px;
+  }
+  
+  .about-section {
+    margin-bottom: 40px;
+  }
+  
+  .about-section h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .about-section p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
+  .team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .team-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .team-member h3 {
+    margin-bottom: 5px;
+  }
+  
+  .team-member p {
+    margin: 0;
+    font-size: 1em;
+    color: #555;
+  }
+  
